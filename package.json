@@ -1,0 +1,24 @@
+{
+  "name": "guiaperguntas",
+  "version": "1.0.0",
+  "description": "plataforma de perguntas e respostas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurGarciaTorrezani/GuiaPerguntas.git"
+  },
+  "author": "Arthur Garcia",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ArthurGarciaTorrezani/GuiaPerguntas/issues"
+  },
+  "homepage": "https://github.com/ArthurGarciaTorrezani/GuiaPerguntas#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
